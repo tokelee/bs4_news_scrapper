@@ -1,6 +1,3 @@
-NOTE:- PLEASE CHANGE THE desktop_path VARIABLE TO YOUR OWN DESKTOP PATH IF YOU WISH TO RUN THIS CODE ON YOUR OWN MACHINE, YOU CAN GET THE VARIABLE ASSIGNMENT AT THE PROJECT'S (__init__.py) file. 
-CHANGE desktop_path = 'C:\\Users\\HP\\Desktop' to desktop_path = '{Your PC desktop path}' e.g 'C:\\Users\\DEL\\Desktop'
-
 THIS PACKAGE IS SETUP TO SCRAP THREE NIGERIAN NEWS PAPERS NAMELY:
 i.      The Guardian
 ii.     The Punch

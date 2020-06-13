@@ -7,7 +7,7 @@ creation_date = time.strftime('%d-%m-%y')
 #this date was used in the vanguard_scraper function
 date = time.strftime('%B %d, %Y')
 
-desktop_path = 'C:\\Users\\HP\\Desktop' #YOU MIGHT NEED TO CHANGE THIS DESKTOP PATH TO YOUR SYSTEM'S DESKTOP PATH
+desktop_path = 'C:'+os.environ["HOMEPATH"]+'\\Desktop'
 
 
 os.chdir(desktop_path)
